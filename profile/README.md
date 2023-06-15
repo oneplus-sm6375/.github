@@ -1,12 +1,25 @@
-## Hi there 👋
+Copyright (C) 2023 The LineageOS Project
 
-<!--
+Device configuration for OnePlus Nord CE 2 Lite 5G
+=========================================
 
-**Here are some ideas to get you started:**
+The OnePlus Nord CE 2 Lite 5G (codenamed _"CPH2381"_) is a mid range smartphone from Oneplus.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+OnePlus Nord CE 2 Lite 5G was announced and released in April 2022.
+
+## Device specifications
+
+Basic   | Spec Sheet
+-------:|:-------------------------
+SoC     | Qualcomm SM6375 Snapdragon 695 5G
+CPU     | Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)
+GPU     | Adreno 619
+Memory  | 6/8 GB RAM
+Shipped Android Version | Android 12 with OxygenOS
+Storage | 128 GB
+Battery | Non-removable Li-Po 5000 mAh battery
+Display | 1080 x 2412 pixels, 20:9 ratio, 6.59 inches, IPS LCD 120Hz (~401 ppi density)
+
+## Device picture
+
+![OnePlus Nord CE 2 Lite 5G](https://oasis.opstatics.com/content/dam/oasis/page/2022/operation/apr/in/Nord-ce2-lite-Black.png)
